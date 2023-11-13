@@ -305,7 +305,7 @@ body{
 }
 
 .card3:hover .content3{
-    padding: 20px;
+    padding: 10px;
     height: 110px ;
     transform: translateY(0px);
 
@@ -333,6 +333,6 @@ body{
 }
 
 .card3 .arrow3{
-    font-size: 27px;
+    font-size: 20px;
 
 }

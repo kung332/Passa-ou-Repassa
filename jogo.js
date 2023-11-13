@@ -8,8 +8,6 @@ function checkAnswer(element, answerIndex) {
     score += 1; // Aumenta a pontuação em 1 ponto
     document.querySelector('.score1').textContent = score;
     document.querySelector('.score2').textContent = score;
-  } else {
-    element.style.display = 'none'; // Esconde a resposta errada
   }
 
   // Remova os eventos de clique após responder
